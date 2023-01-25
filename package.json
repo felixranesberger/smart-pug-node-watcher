@@ -1,0 +1,29 @@
+{
+  "name": "smart-pug-node-watcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixranesberger/smart-pug-node-watcher.git"
+  },
+  "keywords": [
+    "pug",
+    "watcher"
+  ],
+  "author": "Felix Ranesberger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixranesberger/smart-pug-node-watcher/issues"
+  },
+  "homepage": "https://github.com/felixranesberger/smart-pug-node-watcher#readme",
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "fs-extra": "^11.1.0",
+    "glob": "^8.1.0",
+    "pug": "^3.0.2"
+  }
+}
